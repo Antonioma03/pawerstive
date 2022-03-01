@@ -1,0 +1,18 @@
+#pajina{
+    background-image: url("fondo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#lienzo{
+   background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: rgb(3, 37, 66);
+}
+#ancho,#alto{
+font-size: 40px;
+font-weight: 600;
+}
+#controles{
+    width: 900px;
+}
